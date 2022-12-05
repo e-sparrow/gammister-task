@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cb2c8834fd4e88815f94d0a27f491f, type: 3}
+  m_Name: CardSpriteStorage
+  m_EditorClassIdentifier: 
+  sprites:
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 1
+    <Sprite>k__BackingField: {fileID: -1703271897, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 2
+    <Sprite>k__BackingField: {fileID: -1413055742, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 3
+    <Sprite>k__BackingField: {fileID: 589833486, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 4
+    <Sprite>k__BackingField: {fileID: 1154122591, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 5
+    <Sprite>k__BackingField: {fileID: -288493658, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 6
+    <Sprite>k__BackingField: {fileID: 690565528, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 7
+    <Sprite>k__BackingField: {fileID: -783968328, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 8
+    <Sprite>k__BackingField: {fileID: 1104969928, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 9
+    <Sprite>k__BackingField: {fileID: 1340191264, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 10
+    <Sprite>k__BackingField: {fileID: -1443663958, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 11
+    <Sprite>k__BackingField: {fileID: 223512192, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 12
+    <Sprite>k__BackingField: {fileID: 576508940, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 0
+      <Rank>k__BackingField: 13
+    <Sprite>k__BackingField: {fileID: 1258344913, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 1
+    <Sprite>k__BackingField: {fileID: -8955818, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 2
+    <Sprite>k__BackingField: {fileID: 507353357, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 3
+    <Sprite>k__BackingField: {fileID: 1949398789, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 4
+    <Sprite>k__BackingField: {fileID: 2038872762, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 5
+    <Sprite>k__BackingField: {fileID: -803174409, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 6
+    <Sprite>k__BackingField: {fileID: -1687124948, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 7
+    <Sprite>k__BackingField: {fileID: -783968328, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 8
+    <Sprite>k__BackingField: {fileID: -1783146811, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 9
+    <Sprite>k__BackingField: {fileID: -890621808, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 10
+    <Sprite>k__BackingField: {fileID: 171567324, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 11
+    <Sprite>k__BackingField: {fileID: 572337250, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 12
+    <Sprite>k__BackingField: {fileID: 83864188, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 1
+      <Rank>k__BackingField: 13
+    <Sprite>k__BackingField: {fileID: -146854916, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 1
+    <Sprite>k__BackingField: {fileID: -1238578633, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 2
+    <Sprite>k__BackingField: {fileID: 1330323596, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 3
+    <Sprite>k__BackingField: {fileID: 1897588597, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 4
+    <Sprite>k__BackingField: {fileID: 1342336859, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 5
+    <Sprite>k__BackingField: {fileID: 707462250, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 6
+    <Sprite>k__BackingField: {fileID: -1382330941, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 7
+    <Sprite>k__BackingField: {fileID: 239728848, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 8
+    <Sprite>k__BackingField: {fileID: 1881314815, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 9
+    <Sprite>k__BackingField: {fileID: -241540378, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 10
+    <Sprite>k__BackingField: {fileID: -1255140975, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 11
+    <Sprite>k__BackingField: {fileID: 254233798, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 12
+    <Sprite>k__BackingField: {fileID: 1106162263, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 2
+      <Rank>k__BackingField: 13
+    <Sprite>k__BackingField: {fileID: 979693949, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 1
+    <Sprite>k__BackingField: {fileID: -1589679520, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 2
+    <Sprite>k__BackingField: {fileID: -308734548, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 3
+    <Sprite>k__BackingField: {fileID: 1475788649, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 4
+    <Sprite>k__BackingField: {fileID: 264437103, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 5
+    <Sprite>k__BackingField: {fileID: -1611382611, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 6
+    <Sprite>k__BackingField: {fileID: -1610547612, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 7
+    <Sprite>k__BackingField: {fileID: 206416093, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 8
+    <Sprite>k__BackingField: {fileID: 951330483, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 9
+    <Sprite>k__BackingField: {fileID: -323313196, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 10
+    <Sprite>k__BackingField: {fileID: -627596099, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 11
+    <Sprite>k__BackingField: {fileID: 1278227792, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 12
+    <Sprite>k__BackingField: {fileID: -1458101104, guid: 605c562d60a4b334bace887f90878804, type: 3}
+  - <Card>k__BackingField:
+      <Suit>k__BackingField: 3
+      <Rank>k__BackingField: 13
+    <Sprite>k__BackingField: {fileID: -1704954688, guid: 605c562d60a4b334bace887f90878804, type: 3}
